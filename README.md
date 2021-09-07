@@ -1,6 +1,6 @@
 # Face Recognition Brain API
 
-The API for the [Face Recognition Brain](https://facerecognitionbrainpower.herokuapp.com/)
+This the API for the [Face Recognition Brain Web App](https://facerecognitionbrainpower.herokuapp.com/) 
 
 The back-end for the Face Recognition Brain app. The API is built with Node.js, Express.js and a PostgreSQL database responsible for user signin, registration and also keeps track of the number of entries for each user. 
 
